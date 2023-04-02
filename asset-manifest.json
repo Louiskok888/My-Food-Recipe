@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My-Food-Recipe/static/css/main.966ff1a0.css",
+    "main.js": "/My-Food-Recipe/static/js/main.5723463e.js",
+    "static/js/787.9b06cee2.chunk.js": "/My-Food-Recipe/static/js/787.9b06cee2.chunk.js",
+    "static/media/ingredients.jpeg": "/My-Food-Recipe/static/media/ingredients.78cac314ff4c0f22c474.jpeg",
+    "static/media/recipe8.jpg": "/My-Food-Recipe/static/media/recipe8.9bb426fd8c62ccfb059d.jpg",
+    "static/media/recipe10.png": "/My-Food-Recipe/static/media/recipe10.27c7292af508ea3fdd8c.png",
+    "static/media/recipe9.jpg": "/My-Food-Recipe/static/media/recipe9.c74d7e0bb8360391bbb1.jpg",
+    "static/media/recipe11.png": "/My-Food-Recipe/static/media/recipe11.d4a00bf140f993da46a5.png",
+    "static/media/recipe7.png": "/My-Food-Recipe/static/media/recipe7.342b50669369cd6680a2.png",
+    "index.html": "/My-Food-Recipe/index.html",
+    "main.966ff1a0.css.map": "/My-Food-Recipe/static/css/main.966ff1a0.css.map",
+    "main.5723463e.js.map": "/My-Food-Recipe/static/js/main.5723463e.js.map",
+    "787.9b06cee2.chunk.js.map": "/My-Food-Recipe/static/js/787.9b06cee2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.966ff1a0.css",
+    "static/js/main.5723463e.js"
+  ]
+}
