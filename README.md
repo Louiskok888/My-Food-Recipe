@@ -1,5 +1,5 @@
-# Food-Recipe
-### An apps to help you to browse for the recipe that you want to cook! - Second Project
+# My-Food-Recipe
+### A friendly user app to help you to browse for the recipe that you want to cook! - Second Project
 &nbsp;
 # Description (how to use)
 ### > Type a food name such as "noodle", "pasta" or "rice" into the search box.
